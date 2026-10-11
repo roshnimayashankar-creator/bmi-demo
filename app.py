@@ -52,7 +52,7 @@ HTML = """
 </head>
 <body>
 <div class="card">
-  <h2>BMI Calculator</h2>
+  <h2>Calculator</h2>
   <p class="sub">Body Mass Index &bull; live results as you type</p>
 
   <form method="post" action="/bmi">
